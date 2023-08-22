@@ -1,1 +1,3 @@
-# EEG_word_decoding_ASR
+# EEG word decoding ASR
+
+
